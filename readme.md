@@ -1,0 +1,1 @@
+This is a freecodecamp project. The main problem was to figure out what marked.js is about and to read its documentation. The carriage return part was also tricky but the answer was right there is the error message i.e. look at the marked.js documentation.
